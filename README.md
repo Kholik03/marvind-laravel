@@ -21,8 +21,8 @@ Project ini dibuat untuk memenuhi tanggung jawab pada tugas yang diberikan di ko
 ![Alt Text](https://media.giphy.com/media/SrGwRMWzcHEZX4xW8V/giphy.gif)<br>    
     
     ##Link YT
-    <br>  
-https://youtu.be/FjYWMFCmgc0<br>  
+    https://youtu.be/FjYWMFCmgc0<br>   
+
 
 
 
