@@ -13,8 +13,9 @@ Ini merupakan Project Laravel 8, didalam project ini terdapat fungsi CRUD (Creat
 Project ini dibuat untuk memenuhi tanggung jawab pada tugas yang diberikan di komunitas Marvind.
 
 ## ScreenShot Web
-<b>Tambah<B>
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<b>Tambah<b>
+    <br>
+![Alt Text](https://media.giphy.com/media/utBt9qnOsrKjudpdui/giphy.gif)
 
 
 
