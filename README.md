@@ -19,9 +19,10 @@ Project ini dibuat untuk memenuhi tanggung jawab pada tugas yang diberikan di ko
 ![Alt Text](https://media.giphy.com/media/QV9qEOChbtzargBG3j/giphy.gif)<br>
  <b>Delete</b><br>
 ![Alt Text](https://media.giphy.com/media/SrGwRMWzcHEZX4xW8V/giphy.gif)<br>    
-    link YT
     
-![Alt Text](https://youtu.be/FjYWMFCmgc0)<br>  
+    ##Link YT
+    <br>  
+https://youtu.be/FjYWMFCmgc0<br>  
 
 
 
