@@ -12,7 +12,7 @@
 Ini merupakan Project Laravel 8, didalam project ini terdapat fungsi CRUD (Create Read Update Delete)
 Project ini dibuat untuk memenuhi tanggung jawab pada tugas yang diberikan di komunitas Marvind.
 <ul>
-    <li>Fungsi Crud Menu mamakanan</li>
+    <li>Fungsi Crud Daftar Menu Makanan</li>
     <li>Menggunakan Boosstrap</li>
 </ul>
 
