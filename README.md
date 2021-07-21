@@ -14,7 +14,7 @@ Project ini dibuat untuk memenuhi tanggung jawab pada tugas yang diberikan di ko
 
 ## ScreenShot Web
 
-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 
