@@ -12,10 +12,12 @@
 Ini merupakan Project Laravel 8, didalam project ini terdapat fungsi CRUD (Create Read Update Delete)
 Project ini dibuat untuk memenuhi tanggung jawab pada tugas yang diberikan di komunitas Marvind.
 
-## ScreenShot Web
-<b>Tambah<b>
-    <br>
-![Alt Text](https://media.giphy.com/media/utBt9qnOsrKjudpdui/giphy.gif)
+## ScreenShot Web<br>
+<b>Tambah<b><br>
+![Alt Text](https://media.giphy.com/media/utBt9qnOsrKjudpdui/giphy.gif)<br>
+<b>Update</b><br>
+![Alt Text](https://media.giphy.com/media/QV9qEOChbtzargBG3j/giphy.gif)<br>
+ 
 
 
 
