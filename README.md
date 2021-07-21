@@ -14,7 +14,7 @@ Project ini dibuat untuk memenuhi tanggung jawab pada tugas yang diberikan di ko
 
 ## ScreenShot Web
 <b>Tambah<B>
-<p align="center">![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)</p>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 
